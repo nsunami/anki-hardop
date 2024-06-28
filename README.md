@@ -4,7 +4,7 @@
     <b>Learning Dutch made easier with your own voice.</b>
 </p>
 
-Generating Dutch audio files for Anki's Frequency Dictionary of Dutch Deck, in your own voice.
+Generating Dutch audio files for [Anki's Frequency Dictionary of Dutch Deck](https://ankiweb.net/shared/info/1002891444), in your own voice.
 
 ## Running a script
 
