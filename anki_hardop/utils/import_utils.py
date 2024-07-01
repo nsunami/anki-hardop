@@ -14,7 +14,7 @@ def extract_words_from_mp3_files_list(mp3_files_list: str = "data/audio_list.txt
     return words
 
 
-def read_notes(notes_file: str = "data/freq_dict_dutch_notes.txt"):
+def read_notes(notes_file: str = "data/anki/freq_dict_dutch_notes.txt"):
     """Import the Notes export from Anki and convert it to pandas DataFrame"""
     with open(notes_file, "r") as file:
         notes_lines = file.readlines()
