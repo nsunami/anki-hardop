@@ -18,3 +18,7 @@ def generate_notes():
         file.write("#separator:tab\n")
         file.write("#html:true\n")
         file.write(current_notes)
+
+
+if __name__ == "__main__":
+    generate_notes()
